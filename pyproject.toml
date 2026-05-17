@@ -1,0 +1,14 @@
+[project]
+name = "filebotpy"
+version = "0.1.0"
+description = "A Python implementation of FileBot's renaming feature"
+requires-python = ">=3.12"
+dependencies = ["requests>=2.31.0", "PyQt6>=6.6.0"]
+
+[project.scripts]
+filebotpy = "filebotpy.cli.cmdline:main"
+filebotpy-gui = "filebotpy.gui:launch_gui"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
