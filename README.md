@@ -88,4 +88,8 @@ FileBotPy/
 
 ## License
 
-This project is a Python clone of FileBot's renaming functionality. FileBot is a trademark of FileBot Ltd. This project is not affiliated with or endorsed by FileBot Ltd.
+This project is a personal Python clone of FileBot's renaming functionality. FileBot is a trademark of FileBot Ltd. This project is not affiliated with or endorsed by FileBot Ltd.
+
+## Acknowledgments
+
+This is a personal project I worked on to understand how media renaming works. You're welcome to explore the code and see how it works, but if you're looking for something well-maintained with full support, please consider paying for the official [FileBot](https://www.filebot.net) application to support their developers.
